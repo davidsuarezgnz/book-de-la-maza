@@ -1,0 +1,19 @@
+# Jupyter & kernel
+jupyter
+ipykernel
+
+# Treatment and analysis of data
+pandas
+numpy
+
+# Basic and advanced visualization
+matplotlib
+seaborn
+plotly
+
+# Statistics and exploratory analysis
+scipy
+statsmodels
+
+# Optional: quick profiling of datasets
+pandas-profiling
