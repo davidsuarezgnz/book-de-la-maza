@@ -10,6 +10,7 @@ numpy
 matplotlib
 seaborn
 plotly
+kaleido
 
 # Statistics and exploratory analysis
 scipy
