@@ -5,6 +5,7 @@ ipykernel
 # Treatment and analysis of data
 pandas
 numpy
+re
 
 # Basic and advanced visualization
 matplotlib
@@ -15,6 +16,7 @@ kaleido
 # Statistics and exploratory analysis
 scipy
 statsmodels
+sklearn
 
 # Optional: quick profiling of datasets
 pandas-profiling
